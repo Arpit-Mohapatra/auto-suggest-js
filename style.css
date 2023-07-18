@@ -1,0 +1,18 @@
+main{
+    width: 500px;
+    margin: 10px auto 0 auto;
+}
+
+#search{
+    padding: 10px;
+    width: 100%;
+}
+
+#search-area{
+    border: 1px solid red;
+    min-height: 100px;
+    padding: 5px;
+    position: relative;
+    margin-top: 10px;
+    display: none;
+}
